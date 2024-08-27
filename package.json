@@ -1,0 +1,16 @@
+{
+  "name": "std_manage",
+  "version": "1.0.0",
+  "description": "Atchai",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.19.2"
+  }
+}
